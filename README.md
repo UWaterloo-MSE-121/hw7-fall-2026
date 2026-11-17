@@ -12,6 +12,8 @@ The first time your Codespace starts, setup code runs in the terminal. **Let it 
 
 The settings for this are in the `.devcontainer` and `.vscode` folders. Do not change them.
 
+## The files
+
 The homework instructions are posted with the other MSE 121 homework. This repository holds the files you start from:
 
 - `cipher.py`: where you write your `translate` function and your program. The start of `translate` checks its arguments; leave that code as it is.
